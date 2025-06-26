@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CineOnTop</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1 style="color: rgb(245, 245, 245); font-size: 36px;">¡Hola, amantes del cine!</h1>
+  <p style="color: rgb(245, 245, 245); font-size: 23px;">Aqui veremos reseñas y mini cortes de peliculas/series.</p>
+    <p style="color: rgb(245, 245, 245); font-size: 22px;">Uno de los generos de peliculas que mas nos gustan, son:</p>
+    
+    <ul>
+        <li style="color: rgb(245, 245, 245); font-size: 22px;">Terror</li>
+        <li style="color: rgb(245, 245, 245); font-size: 22px;">Comedia</li>
+        <li style="color: rgb(245, 245, 245); font-size: 22px;">Accion</li>
+        <li style="color: rgb(245, 245, 245); font-size: 22px;">Drama</li>
+        <li style="color: rgb(245, 245, 245); font-size: 22px;">Misterio</li>
+        <ul>
+    <script src="script.js"></script>
+
+    <h1 style="color: rgb(245, 245, 245); font-size: 27px;">Aqui les motraremos un corte de una pelicula la cual nos gusta</h1>
+    <p style="color: rgb(245, 245, 245); font-size: 22px;">Espero que lo disfruten!!</p>
+</html>
+     <video width="640" controls>
+  <source src="El Padrino_ La escena más mítica  Prime Video España.mp4" type="video/mp4">
+</video>
+<h1 style="color: rgb(245, 245, 245); font-size: 26px;">!!Siganos en nuestra cuenta!!</h1>
+<a style="color: rgb(245, 245, 245); font-size: 26px;" href="https://www.instagram.com/cinefilos_777/?next=%2F" target="_blank">Ir a cinefilos_777</a>
